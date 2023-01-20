@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paging3Demo</string>
+    <string name="description">user image</string>
+    <string name="bottom_home_title">Home</string>
+    <string name="bottom_bookmark_title">Bookmark</string>
+    <string name="bottom_detail_title">Detail</string>
+    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
